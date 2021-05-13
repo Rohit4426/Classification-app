@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Classification-app/static/css/main.dec3fd5e.chunk.css",
+    "main.js": "/Classification-app/static/js/main.d8d3db52.chunk.js",
+    "main.js.map": "/Classification-app/static/js/main.d8d3db52.chunk.js.map",
+    "runtime-main.js": "/Classification-app/static/js/runtime-main.44a8684e.js",
+    "runtime-main.js.map": "/Classification-app/static/js/runtime-main.44a8684e.js.map",
+    "static/js/2.1ebd355f.chunk.js": "/Classification-app/static/js/2.1ebd355f.chunk.js",
+    "static/js/2.1ebd355f.chunk.js.map": "/Classification-app/static/js/2.1ebd355f.chunk.js.map",
+    "index.html": "/Classification-app/index.html",
+    "precache-manifest.0ae4546885c1e78706aecc9da1e70c85.js": "/Classification-app/precache-manifest.0ae4546885c1e78706aecc9da1e70c85.js",
+    "service-worker.js": "/Classification-app/service-worker.js",
+    "static/css/main.dec3fd5e.chunk.css.map": "/Classification-app/static/css/main.dec3fd5e.chunk.css.map",
+    "static/js/2.1ebd355f.chunk.js.LICENSE.txt": "/Classification-app/static/js/2.1ebd355f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.44a8684e.js",
+    "static/js/2.1ebd355f.chunk.js",
+    "static/css/main.dec3fd5e.chunk.css",
+    "static/js/main.d8d3db52.chunk.js"
+  ]
+}
